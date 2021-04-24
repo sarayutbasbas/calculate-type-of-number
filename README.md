@@ -1,0 +1,1 @@
+# calculate-type-of-number
